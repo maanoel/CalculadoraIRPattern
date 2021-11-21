@@ -1,0 +1,73 @@
+{
+   "processID":"PepLiberaPrescricaoProc",
+   "user":"mestre",
+   "recurrent":false,
+   "executionParameter":{
+      "CodColigada":1,
+      "IdPrescricao":1977376,
+      "CodConvenio":4,
+      "SourceUsuario":"mestre",
+      "RemoveOldPermissions":false,
+      "CopyToAllApplications":true,
+      "CodSistema":"S",
+      "Initialized":true,
+      "OnlineMode":false,
+      "SyncExecution":false,
+      "HideProgressDialog":false,
+      "SaveParamsExecution":false,
+      "Context":{
+         "_params":{
+            "$CODTIPOCURSO":-1,
+            "$EDUTIPOUSR":"-1",
+            "$CODUNIDADEBIB":-1,
+            "$CODCOLIGADA":1,
+            "$RHTIPOUSR":"-1",
+            "$CODIGOEXTERNO":"-1",
+            "$CODSISTEMA":"S",
+            "$CODUSUARIOSERVICO":"",
+            "$CODUSUARIO":"mestre",
+            "$IDPRJ":-1,
+            "$CHAPAFUNCIONARIO":"-1",
+            "$CODFILIAL":1
+		
+		  
+         },
+         "Environment":1
+      },
+      "UserName":"mestre",
+      "ConnectionId":null,
+      "ConnectionString":null,
+      "DriverType":null,
+      "HostName":"localhost",
+      "ShowReExecuteButton":true,
+      "ProcessName":"Cópia de Permissões de Usuários",
+      "ServerName":"PepLiberaPrescricaoProc",
+      "ServiceInterface":null,
+      "UseJobMonitor":true,
+      "CanSendMail":false,
+      "CanWaitSchedule":false,
+      "SendMail":false,
+      "FriendlyLogs":null,
+      "SuccessMessage":"Processo executado com sucesso",
+      "FailureMessage":"Falha na execução do processo",
+      "SaveLogInDatabase":true,
+      "StatusMessage":null,
+      "WaitSchedule":false,
+      "IsolateProcess":false,
+      "DisableIsolateProcess":false,
+      "CustomData":null,
+      "CanParallelize":true,
+      "ShouldParallelize":false,
+      "QuantityOfSplits":0,
+      "MinimumQuantityOfPrimaryKeysPerProcess":1,
+      "MaximumQuantityOfPrimaryKeysPerProcess":1000,
+      "NotifyFluig":false,
+      "NotifyEmail":false,
+      "NotifyEmailList":null				  
+					  
+					  
+							 
+							   
+							
+   }
+}
